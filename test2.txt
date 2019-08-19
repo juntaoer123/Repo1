@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 68CE-EE14
+
+ Directory of C:\Users\Tao Wang\Desktop\JavaProject1
+
+08/19/2019  04:56 PM    <DIR>          .
+08/19/2019  04:56 PM    <DIR>          ..
+08/16/2019  03:58 PM               674 Hello.class
+08/16/2019  03:58 PM               160 Hello.java
+08/19/2019  04:56 PM                 0 test2.txt
+               3 File(s)            834 bytes
+               2 Dir(s)  833,805,721,600 bytes free
